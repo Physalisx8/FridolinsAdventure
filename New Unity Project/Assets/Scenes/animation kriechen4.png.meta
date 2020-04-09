@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 494f3946c72fe044e889c8087a14f05d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3967721969183680414
+    second: animation kriechen4_0
+  - first:
+      213: -8438674401290256173
+    second: animation kriechen4_1
+  - first:
+      213: -7566807930242813698
+    second: animation kriechen4_2
+  - first:
+      213: -5922970241445633006
+    second: animation kriechen4_3
+  - first:
+      213: 746167050003752845
+    second: animation kriechen4_4
+  - first:
+      213: 6149624455819401702
+    second: animation kriechen4_5
+  - first:
+      213: -5731019160283969028
+    second: animation kriechen4_6
+  - first:
+      213: -6390873618230680332
+    second: animation kriechen4_7
+  - first:
+      213: -4626473139051918543
+    second: animation kriechen4_8
+  - first:
+      213: 6732141860321430776
+    second: animation kriechen4_9
+  - first:
+      213: -8473072579010484871
+    second: animation kriechen4_10
+  - first:
+      213: 8045808901959008750
+    second: animation kriechen4_11
+  - first:
+      213: -2529108299785025044
+    second: animation kriechen4_12
+  - first:
+      213: 2090226252082155718
+    second: animation kriechen4_13
+  - first:
+      213: -5096052900828720593
+    second: animation kriechen4_14
+  - first:
+      213: 2959227700674203503
+    second: animation kriechen4_15
+  - first:
+      213: -6933263591747146388
+    second: animation kriechen4_16
+  - first:
+      213: -3020141152849420655
+    second: animation kriechen4_17
+  - first:
+      213: 8172439664796728917
+    second: animation kriechen4_18
+  - first:
+      213: -8144149008897837736
+    second: animation kriechen4_19
+  - first:
+      213: 2986740945386261108
+    second: animation kriechen4_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation kriechen4_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1471
+        width: 1413
+        height: 1171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9750843468c39c64f82ab9132b70bb0b
+      internalID: 3967721969183680414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_1
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1456
+        width: 1543
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45c164809715d748a8d96a723bae097
+      internalID: -8438674401290256173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_2
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 1399
+        width: 1484
+        height: 1205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b626fbc94a5f84ebae45705f6e666d
+      internalID: -7566807930242813698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_3
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 1372
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067cbbd68978ef54e884e88b729ca878
+      internalID: -5922970241445633006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_4
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 1378
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fce25a1c0b5fde4ab2b3e797181b013
+      internalID: 746167050003752845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_5
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 1374
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace497f437bfb54097a56c46cf12cdc
+      internalID: 6149624455819401702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_6
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 1286
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a0244a494e25840982705d2241b4f8
+      internalID: -5731019160283969028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_7
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 1357
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f187463d4abbf46b975b1fbbd38a1d
+      internalID: -6390873618230680332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_8
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 1351
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373231e54d0790d49a042a8ec0f3ae67
+      internalID: -4626473139051918543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_9
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 1365
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a11afd8b51780340877500494888faf
+      internalID: 6732141860321430776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_10
+      rect:
+        serializedVersion: 2
+        x: 4447
+        y: 1286
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3dc821b87aafb4981565046770059f
+      internalID: -8473072579010484871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_11
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 1334
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6edd03e0b73434299480c9c717146f
+      internalID: 8045808901959008750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_12
+      rect:
+        serializedVersion: 2
+        x: 4303
+        y: 1344
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fbc33c93c797e48960fc223916273a
+      internalID: -2529108299785025044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_13
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1301
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048c82b6f47b63945853775e7c299ef8
+      internalID: 2090226252082155718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_14
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1307
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed73f38e41a1d474e95f53600e17f5cd
+      internalID: -5096052900828720593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_15
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1288
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74f0e9273365f14bb445a118df3afb0
+      internalID: 2959227700674203503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_16
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1242
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdf1c2d194e9494c87926410b3f2ec7
+      internalID: -6933263591747146388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_17
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1242
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148e90ff7b5b52746b762569fde03361
+      internalID: -3020141152849420655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_18
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 114
+        width: 1598
+        height: 1153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d452b1a9090b46a084e740c0bb4f8
+      internalID: 8172439664796728917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_19
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 1218
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a567e8da1783db46a3e44e894f93fe7
+      internalID: -8144149008897837736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation kriechen4_20
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 84
+        width: 1542
+        height: 1149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749443690ae02246a36e6e96f2d8785
+      internalID: 2986740945386261108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

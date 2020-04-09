@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: af31eb6d6cad1814882e71a7a8f36714
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4695054541087882865
+    second: blasenpflanze_0
+  - first:
+      213: -8741513832845108965
+    second: blasenpflanze_1
+  - first:
+      213: 9118705743957868687
+    second: blasenpflanze_2
+  - first:
+      213: 3225823026919947179
+    second: blasenpflanze_3
+  - first:
+      213: 110699339050481616
+    second: blasenpflanze_4
+  - first:
+      213: 4836091187087726462
+    second: blasenpflanze_5
+  - first:
+      213: -1531466048389729381
+    second: blasenpflanze_6
+  - first:
+      213: -8540456271263979308
+    second: blasenpflanze_7
+  - first:
+      213: -8147495200164668285
+    second: blasenpflanze_8
+  - first:
+      213: 5807988408542311469
+    second: blasenpflanze_9
+  - first:
+      213: 1482519225068869810
+    second: blasenpflanze_10
+  - first:
+      213: -1590778391217389348
+    second: blasenpflanze_11
+  - first:
+      213: 4077525374554660564
+    second: blasenpflanze_12
+  - first:
+      213: -8276401235900471718
+    second: blasenpflanze_13
+  - first:
+      213: -1919866564200635856
+    second: blasenpflanze_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blasenpflanze_0
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 0
+        width: 383
+        height: 1307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d9c004a19ccb6449d2ee71eec5d23c
+      internalID: 4695054541087882865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_1
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 0
+        width: 424
+        height: 1320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a531cd604f6065442a4fc758d2fa9661
+      internalID: -8741513832845108965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_2
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 11
+        width: 415
+        height: 1309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb13e116a8592b40a4d332dde12fcfd
+      internalID: 9118705743957868687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_3
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 0
+        width: 424
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7aae2bbc1e29f4db7d852beb692eec
+      internalID: 3225823026919947179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_4
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 0
+        width: 382
+        height: 1349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105c26daf11fd14e953405d5b56e797
+      internalID: 110699339050481616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_5
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 0
+        width: 507
+        height: 1328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee3525ddca16241910eb8b5eb60e31
+      internalID: 4836091187087726462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 463
+        height: 1288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337076f4c78cda948bc7316553fcc090
+      internalID: -1531466048389729381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 428
+        height: 1294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7ee822109f0a4993ef65bdedf3747
+      internalID: -8540456271263979308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_8
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 390
+        height: 1302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d18906339fd034e9506894383d20b2
+      internalID: -8147495200164668285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_9
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 0
+        width: 331
+        height: 1309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cf77d118146d49912892e9098d31d
+      internalID: 5807988408542311469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_10
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 0
+        width: 403
+        height: 1317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356c3c61677866469e404b3cfc27cf7
+      internalID: 1482519225068869810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_11
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 0
+        width: 443
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d2209706b81ad4fa24e4e2aa931936
+      internalID: -1590778391217389348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_12
+      rect:
+        serializedVersion: 2
+        x: 3678
+        y: 0
+        width: 421
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7b6ad36ce6dfe419cb67f4fd49bace
+      internalID: 4077525374554660564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_13
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 0
+        width: 402
+        height: 1343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb26e661e6b6bd40bfa4ea45da7cd0a
+      internalID: -8276401235900471718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blasenpflanze_14
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 20
+        width: 152
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff8990947427684c8bc2e9f2a63c253
+      internalID: -1919866564200635856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

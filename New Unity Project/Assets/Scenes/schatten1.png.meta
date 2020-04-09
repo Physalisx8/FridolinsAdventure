@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: d447e8a1ef336f144a2275ccc3f70b76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2093118514902687349
+    second: schatten1_0
+  - first:
+      213: -4211720991419536874
+    second: schatten1_1
+  - first:
+      213: -4626609385628876512
+    second: schatten1_2
+  - first:
+      213: 8488733836187588633
+    second: schatten1_3
+  - first:
+      213: -5819124439713611918
+    second: schatten1_4
+  - first:
+      213: 4478085218733228126
+    second: schatten1_5
+  - first:
+      213: -7794222375073473900
+    second: schatten1_6
+  - first:
+      213: 9071005897334054177
+    second: schatten1_7
+  - first:
+      213: -4059301068399308427
+    second: schatten1_8
+  - first:
+      213: 8851066238776790623
+    second: schatten1_9
+  - first:
+      213: -2570361908802361041
+    second: schatten1_10
+  - first:
+      213: 2391848158094197953
+    second: schatten1_11
+  - first:
+      213: 401385872180587129
+    second: schatten1_12
+  - first:
+      213: 8006461240328348367
+    second: schatten1_13
+  - first:
+      213: 3004345908571771503
+    second: schatten1_14
+  - first:
+      213: -6691095654003368665
+    second: schatten1_15
+  - first:
+      213: -6949025798305302426
+    second: schatten1_16
+  - first:
+      213: -178921380891977297
+    second: schatten1_17
+  - first:
+      213: 2716711132685271912
+    second: schatten1_18
+  - first:
+      213: 1473778679075529979
+    second: schatten1_19
+  - first:
+      213: -1797175594549852595
+    second: schatten1_20
+  - first:
+      213: 4704672606002294836
+    second: schatten1_21
+  - first:
+      213: 1765723130923281514
+    second: schatten1_22
+  - first:
+      213: -3881236854129883598
+    second: schatten1_23
+  - first:
+      213: 6627028886302177866
+    second: schatten1_24
+  - first:
+      213: 4274214840879601942
+    second: schatten1_25
+  - first:
+      213: -4706948962222823238
+    second: schatten1_26
+  - first:
+      213: 8650420430610600916
+    second: schatten1_27
+  - first:
+      213: 1161601093981538462
+    second: schatten1_28
+  - first:
+      213: -650766224883953252
+    second: schatten1_29
+  - first:
+      213: 6263430830937527681
+    second: schatten1_30
+  - first:
+      213: -5934725111345101841
+    second: schatten1_31
+  - first:
+      213: -7743398708601400298
+    second: schatten1_32
+  - first:
+      213: -3847998197973317812
+    second: schatten1_33
+  - first:
+      213: 2585380617596921219
+    second: schatten1_34
+  - first:
+      213: 433244228039843125
+    second: schatten1_35
+  - first:
+      213: -6352072427622733740
+    second: schatten1_36
+  - first:
+      213: -4427681435064796629
+    second: schatten1_37
+  - first:
+      213: 2355586435301726505
+    second: schatten1_38
+  - first:
+      213: 6981025758095763184
+    second: schatten1_39
+  - first:
+      213: 2954334383795257072
+    second: schatten1_40
+  - first:
+      213: -4373813869689222603
+    second: schatten1_41
+  - first:
+      213: 1649518700721705501
+    second: schatten1_42
+  - first:
+      213: -8346599011857538795
+    second: schatten1_43
+  - first:
+      213: -6347370354723560335
+    second: schatten1_44
+  - first:
+      213: 3965248154460702581
+    second: schatten1_45
+  - first:
+      213: -1947627839734827206
+    second: schatten1_46
+  - first:
+      213: -4764131361637992147
+    second: schatten1_47
+  - first:
+      213: -3831060209899063062
+    second: schatten1_48
+  - first:
+      213: -2678813137362574674
+    second: schatten1_49
+  - first:
+      213: -1417750299346638442
+    second: schatten1_50
+  - first:
+      213: -1132984517618348447
+    second: schatten1_51
+  - first:
+      213: 2291832375869350880
+    second: schatten1_52
+  - first:
+      213: 4336508278357208929
+    second: schatten1_53
+  - first:
+      213: -1141796321015201210
+    second: schatten1_54
+  - first:
+      213: -8922810477330310309
+    second: schatten1_55
+  - first:
+      213: -6465111942772570221
+    second: schatten1_56
+  - first:
+      213: -4535871925568857743
+    second: schatten1_57
+  - first:
+      213: -956162797694898437
+    second: schatten1_58
+  - first:
+      213: 6801152351255224083
+    second: schatten1_59
+  - first:
+      213: 5797921434603407499
+    second: schatten1_60
+  - first:
+      213: -3197520868070443292
+    second: schatten1_61
+  - first:
+      213: -3996883583524771607
+    second: schatten1_62
+  - first:
+      213: -3158937936940019150
+    second: schatten1_63
+  - first:
+      213: -7500144543135668570
+    second: schatten1_64
+  - first:
+      213: -7318157283371413377
+    second: schatten1_65
+  - first:
+      213: -5623186315354444053
+    second: schatten1_66
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: schatten1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 1061
+        height: 3334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec9cf562003f64f970920df5d54ecf
+      internalID: -2093118514902687349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_1
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 0
+        width: 2863
+        height: 3174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ca561c869e06949aae611329aafb0f
+      internalID: -4211720991419536874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_2
+      rect:
+        serializedVersion: 2
+        x: 8992
+        y: 3160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf3e48b4fc88a3438c9bcc2350498cb
+      internalID: -4626609385628876512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_3
+      rect:
+        serializedVersion: 2
+        x: 9123
+        y: 0
+        width: 2877
+        height: 4000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3452fc5b6d0d6f40a543506dc6890e4
+      internalID: 8488733836187588633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_4
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 2751
+        width: 204
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb1f6799da837d44b908dca39ae5dc8
+      internalID: -5819124439713611918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_5
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 2810
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2841ef822133c97438694698ea6fb3df
+      internalID: 4478085218733228126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_6
+      rect:
+        serializedVersion: 2
+        x: 7228
+        y: 2769
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26efa16448ec01e48bc013f6bffd493a
+      internalID: -7794222375073473900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_7
+      rect:
+        serializedVersion: 2
+        x: 10486
+        y: 2505
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9c9fa626aa60b4abc1345d70a5dfc1
+      internalID: 9071005897334054177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_8
+      rect:
+        serializedVersion: 2
+        x: 10504
+        y: 2511
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b5c290c777d3a4d9b528e02f6822e6
+      internalID: -4059301068399308427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_9
+      rect:
+        serializedVersion: 2
+        x: 10557
+        y: 2507
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7941ad72af746a4ba99d29969b0c72c
+      internalID: 8851066238776790623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_10
+      rect:
+        serializedVersion: 2
+        x: 10424
+        y: 2495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ca3f656bca2749a4390698388d1fd
+      internalID: -2570361908802361041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_11
+      rect:
+        serializedVersion: 2
+        x: 10359
+        y: 2325
+        width: 148
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e0dc6a03e0a0d4e99d6f3559428b5f
+      internalID: 2391848158094197953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_12
+      rect:
+        serializedVersion: 2
+        x: 10647
+        y: 2454
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64bfaef3fc3c3340bafd70a0e7c6584
+      internalID: 401385872180587129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_13
+      rect:
+        serializedVersion: 2
+        x: 10688
+        y: 2448
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128d9c0fa8572b4ea3e8ddc8c80b914
+      internalID: 8006461240328348367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_14
+      rect:
+        serializedVersion: 2
+        x: 10623
+        y: 2290
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3b39412c57cdb45a63cab610536c94
+      internalID: 3004345908571771503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_15
+      rect:
+        serializedVersion: 2
+        x: 10680
+        y: 2417
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d4f69882575844a84135b770de185
+      internalID: -6691095654003368665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_16
+      rect:
+        serializedVersion: 2
+        x: 10752
+        y: 2429
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729524261c75d43408589fc0c04331da
+      internalID: -6949025798305302426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_17
+      rect:
+        serializedVersion: 2
+        x: 10775
+        y: 2407
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0e9f9bbcf10344b84111c906c2e7fd
+      internalID: -178921380891977297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_18
+      rect:
+        serializedVersion: 2
+        x: 10330
+        y: 2378
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e0392be1aa00b4887cf732a1ddce72
+      internalID: 2716711132685271912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_19
+      rect:
+        serializedVersion: 2
+        x: 10348
+        y: 2360
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8729305218d1c45bff02680c79cdad
+      internalID: 1473778679075529979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_20
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 2305
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9c2a173b00aa84a82cc3c72b7e3431
+      internalID: -1797175594549852595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_21
+      rect:
+        serializedVersion: 2
+        x: 6807
+        y: 2306
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ef9f4a48bb2e14c8adff7828f7341e
+      internalID: 4704672606002294836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_22
+      rect:
+        serializedVersion: 2
+        x: 6715
+        y: 2278
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299537e8070a8fd4f91fef43c0c4db6f
+      internalID: 1765723130923281514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_23
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 2232
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99feb42685cf7c49a30508ba05da065
+      internalID: -3881236854129883598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_24
+      rect:
+        serializedVersion: 2
+        x: 6703
+        y: 2259
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b35d766fec90c488d449997b624ed5
+      internalID: 6627028886302177866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_25
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 2266
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7181b59a3e0c6944afd428ddc80a646
+      internalID: 4274214840879601942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_26
+      rect:
+        serializedVersion: 2
+        x: 6645
+        y: 2201
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121bafe20e23e0a44b0b34cd23dea2e6
+      internalID: -4706948962222823238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_27
+      rect:
+        serializedVersion: 2
+        x: 6649
+        y: 2224
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee14db6bc650a314b99b17ee86c13ea9
+      internalID: 8650420430610600916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_28
+      rect:
+        serializedVersion: 2
+        x: 6674
+        y: 2185
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c55574a6dbd04ca893a60a805ecf7
+      internalID: 1161601093981538462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_29
+      rect:
+        serializedVersion: 2
+        x: 6762
+        y: 2220
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a3b2c3a3db6f9468b96b15a302a1c2
+      internalID: -650766224883953252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_30
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 0
+        width: 2461
+        height: 2202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a67f169de04d3749959a2c34a00efc5
+      internalID: 6263430830937527681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_31
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 2167
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dac8d4df0db084abd1f8bdc9a5b0ed
+      internalID: -5934725111345101841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_32
+      rect:
+        serializedVersion: 2
+        x: 6609
+        y: 2179
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d839b96beed4044d8319f068a28de89
+      internalID: -7743398708601400298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_33
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 2149
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a718e44bd57dc94c9d8cc16263c489e
+      internalID: -3847998197973317812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_34
+      rect:
+        serializedVersion: 2
+        x: 6674
+        y: 2167
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43cec0ec73eaed40b3cd95c75cead7d
+      internalID: 2585380617596921219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_35
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 2142
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b09176518c76b4397264ef68b64c13
+      internalID: 433244228039843125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_36
+      rect:
+        serializedVersion: 2
+        x: 6602
+        y: 2143
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08849353be467a94c934a61b1c79d18c
+      internalID: -6352072427622733740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_37
+      rect:
+        serializedVersion: 2
+        x: 6545
+        y: 2132
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b378a68c7f907540bcd3822e4bb9172
+      internalID: -4427681435064796629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_38
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 2126
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df883623a42b6c54097db632a7590c96
+      internalID: 2355586435301726505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_39
+      rect:
+        serializedVersion: 2
+        x: 6621
+        y: 2132
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9eb904054d35c4b86947dd6585b012
+      internalID: 6981025758095763184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_40
+      rect:
+        serializedVersion: 2
+        x: 6428
+        y: 1962
+        width: 134
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d5a1d8fc572324a84ef57e1c74f3b6
+      internalID: 2954334383795257072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_41
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 2112
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bc4bbf4e7d631458e322da2f04c402
+      internalID: -4373813869689222603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_42
+      rect:
+        serializedVersion: 2
+        x: 6598
+        y: 2120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eba993097db1e4694396c2ab37dab9
+      internalID: 1649518700721705501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_43
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 2091
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11cbf34c743e5548b8bc113fb6e8a12
+      internalID: -8346599011857538795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_44
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 2003
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735f337ba4204f7449d9b3d3896a86e8
+      internalID: -6347370354723560335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_45
+      rect:
+        serializedVersion: 2
+        x: 6762
+        y: 1985
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4afee5e1145e841b12ad1e0dabd479
+      internalID: 3965248154460702581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_46
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1281
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3859ea42c706b354a9184769625f9477
+      internalID: -1947627839734827206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_47
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1299
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff7b3b3c61eee438770dcd2b05e996
+      internalID: -4764131361637992147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_48
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1212
+        width: 123
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff35f6de973fa4989f98032cebf9d4
+      internalID: -3831060209899063062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_49
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 0
+        width: 2247
+        height: 1657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f2476d13d6c4b4b86ac34da4828a4f
+      internalID: -2678813137362574674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_50
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1277
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eed59438902e04e97d72e6ebc2046a
+      internalID: -1417750299346638442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_51
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1271
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24610661c0c20e04291e0d155035e137
+      internalID: -1132984517618348447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_52
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1271
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654fa61a7e811148abba18a8b598336
+      internalID: 2291832375869350880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_53
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1148
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4700d6fdad0d0409e9337a1b86f454
+      internalID: 4336508278357208929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_54
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1216
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a298973b541bb4691bdcb97c2bd043
+      internalID: -1141796321015201210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_55
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1195
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71d1654ea7e6647809ce97c56b6f19
+      internalID: -8922810477330310309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_56
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1171
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8a9f7a7a9a1264581820ddb405cc6b
+      internalID: -6465111942772570221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_57
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1160
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60b27ceee2200a41952d16664140828
+      internalID: -4535871925568857743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_58
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1052
+        width: 148
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e101ae83954b6041b8d3991e4d2a71e
+      internalID: -956162797694898437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_59
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1124
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c187f6104cfaa45a00a1e0752d4995
+      internalID: 6801152351255224083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_60
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1101
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300715a84da399243bfcf1d98cd3c4d1
+      internalID: 5797921434603407499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_61
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1054
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b29c583d8571cc4298eb4a42389d29f
+      internalID: -3197520868070443292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_62
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1029
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7932ec4f9b154cd49b5b2611dc13dd41
+      internalID: -3996883583524771607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_63
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1041
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af6a542aff422446ae9f64d30d3bd40
+      internalID: -3158937936940019150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1362
+        height: 857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91af1979954c7ee45b613302e2e38896
+      internalID: -7500144543135668570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_65
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 375
+        width: 103
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0094e21f2b7ce46b29b38b2d7ec79d
+      internalID: -7318157283371413377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: schatten1_66
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 350
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe77ad980af4a4d9f816978a2bab4a
+      internalID: -5623186315354444053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
