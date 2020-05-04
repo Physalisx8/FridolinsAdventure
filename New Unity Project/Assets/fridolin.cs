@@ -61,26 +61,43 @@ void OnCollisionEnter2D(Collision2D other){
         //gehört zum klettern
         rb.velocity = new Vector2(xEingabe * speed, rb.velocity.y);
         RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, Vector2.up, distance, whatIsLadder);
-        if(hitInfo.collider != null){
+        if(hitInfo.collider != null && grounded == false){
             if (Input.GetKeyDown(KeyCode.UpArrow)){
-            
-                isClimbing = true;
+                animator.SetBool("climbing", true);
+               isClimbing = true;
+
+
             }
+          
         }
         else{ 
         if(Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.RightArrow)) { 
-            isClimbing = false;}
+                isClimbing = false;
+                animator.SetBool("climbBewegung", false);
+                animator.SetBool("climbing", false);
+            }
             
         }
         if(isClimbing == true && hitInfo.collider != null) { 
-        
+       
             inputVertical = Input.GetAxisRaw("Vertical");
             rb.velocity = new Vector2(rb.velocity.x, inputVertical * speed);
             rb.gravityScale = 0;
+            if(Input.GetAxisRaw("Vertical") > 0)
+            {
+                animator.SetBool("climbBewegung", true);
+            }
+            else
+            {
+                animator.SetBool("climbBewegung", false);
+            }
+         
         }
         else
         {
             rb.gravityScale = 5;
+            animator.SetBool("climbBewegung", false);
+            animator.SetBool("climbing", false);
         }
 
         //spielt Sound Walking ab wenn sich Fridolin bewegt 
@@ -89,7 +106,22 @@ void OnCollisionEnter2D(Collision2D other){
             FindObjectOfType<AudioManager>().Play("walking");
         }
 
-      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
 
         //animation "gehen" wird aktiviert
         animator.SetFloat("walking", Mathf.Abs(xEingabe));
