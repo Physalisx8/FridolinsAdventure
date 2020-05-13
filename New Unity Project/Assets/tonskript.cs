@@ -11,7 +11,7 @@ public class tonskript : MonoBehaviour
     {
         walking = Resources.Load<AudioClip>("walking");
         bumping = Resources.Load<AudioClip>("soundbump");
-       jumping = Resources.Load<AudioClip>("soundjump");
+       //jumping = Resources.Load<AudioClip>("soundjump");
         landing = Resources.Load<AudioClip>("soundlanden");
 
         audioSrc = GetComponent<AudioSource> ();
@@ -33,10 +33,10 @@ public class tonskript : MonoBehaviour
                 audioSrc.PlayOneShot(bumping);
                 break;
             case "jumping":
-                audioSrc.PlayOneShot(jumping);
-                break;
+              //  audioSrc.PlayOneShot(jumping);
+               break;
             case "landing":
-                audioSrc.PlayOneShot(landing);
+                //audioSrc.PlayOneShot(landing);
                 break;
         }
     }

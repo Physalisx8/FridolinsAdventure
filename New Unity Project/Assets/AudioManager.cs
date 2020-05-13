@@ -19,7 +19,7 @@ public class AudioManager : MonoBehaviour
             s.source.loop = s.loop;
         }
     }
-    void Start()
+   void Start()
     {
         Play("theme");
         Play("them2");
@@ -29,11 +29,19 @@ public class AudioManager : MonoBehaviour
         Sound s = Array.Find(sounds, sound => sound.name == name);
         if (s == null)
         {
-            Debug.LogWarning("Sound:" + name + "not found. PS: Cute ass ;)");
+            Debug.LogWarning("Sound:" + name + "not found. PS: Cute butt ;)");
             return;
         }
+
+        //sollte den Sound während das Game gepaused ist leiser machen... mhppff.. dunno 
+        if (PauseMenu.GameIsPaused)
+        {
+            s.source.pitch *= .5f;
+        }
+
+
         s.source.Play();
-    }
+    }   
 
 
 }

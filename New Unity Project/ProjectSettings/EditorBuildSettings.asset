@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Men\xFC Szene/Men\xFC.unity"
+    guid: 0f4344ccc5a1574499bf237c030fc23e
+  - enabled: 1
+    path: Assets/Scenes/Beispielszene.unity
+    guid: cb57c5cc4b0a79f4b871c9996eb5fe58
   m_configObjects: {}
