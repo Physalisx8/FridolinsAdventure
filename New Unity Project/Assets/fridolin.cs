@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 public class fridolin : MonoBehaviour
@@ -16,27 +18,48 @@ public class fridolin : MonoBehaviour
     float xNeu;
     //zum sterben
     public LayerMask whatIsDeadly;
-   
+
+    //für die Main Mut Funktion
+    public int Fear = 0;
+    public bool dieing;
 
     //zum klettern
     public LayerMask whatIsLadder;
     private bool isClimbing;
     private float inputVertical;
     public float speed;
-    
-    
+
+
     [SerializeField] private float jumpforce;
 
 
 
-    void OnTriggerEnter2D(Collider2D collision) {
-        if (collision.gameObject.tag == "Gefahr") { 
-        transform.position = new Vector2(-75.14f, -6.66f);
-       }
-        
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Gefahr")
+        {
+            transform.position = new Vector2(-75.14f, -6.66f);
+
+        }//aktiviert den Mood
+        if (collision.gameObject.tag == "FearTrigger")
+        {
+            Fear += 5;
+
+            if (Fear >= 5)
+            {
+                animator.SetBool("dieing", true);
+                transform.position = new Vector2(-75.14f, -6.66f);
+                Fear = 0;
+
+
+            }
+            else
+            {
+                animator.SetBool("dieing", false);
+            }
+        }
+
     }
-
-
 
     void Start()
     {
@@ -45,12 +68,13 @@ public class fridolin : MonoBehaviour
         normalCollider = GetComponent<CapsuleCollider2D>();
         slideCollider = GetComponent<CircleCollider2D>();
     }
-void OnCollisionEnter2D(Collision2D other){
+    void OnCollisionEnter2D(Collision2D other)
+    {
         if (other.gameObject.tag == "bumptag")
         {
             FindObjectOfType<AudioManager>().Play("bump");
         }
-            grounded = true;
+        grounded = true;
     }
 
     // Update is called once per frame
@@ -61,29 +85,34 @@ void OnCollisionEnter2D(Collision2D other){
         //gehört zum klettern
         rb.velocity = new Vector2(xEingabe * speed, rb.velocity.y);
         RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, Vector2.up, distance, whatIsLadder);
-        if(hitInfo.collider != null && grounded == false){
-            if (Input.GetKeyDown(KeyCode.UpArrow)){
+        if (hitInfo.collider != null && grounded == false)
+        {
+            if (Input.GetKeyDown(KeyCode.UpArrow))
+            {
                 animator.SetBool("climbing", true);
-               isClimbing = true;
+                isClimbing = true;
 
 
             }
-          
+
         }
-        else{ 
-        if(Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.RightArrow)) { 
+        else
+        {
+            if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.RightArrow))
+            {
                 isClimbing = false;
                 animator.SetBool("climbBewegung", false);
                 animator.SetBool("climbing", false);
             }
-            
+
         }
-        if(isClimbing == true && hitInfo.collider != null) { 
-       
+        if (isClimbing == true && hitInfo.collider != null)
+        {
+
             inputVertical = Input.GetAxisRaw("Vertical");
             rb.velocity = new Vector2(rb.velocity.x, inputVertical * speed);
             rb.gravityScale = 0;
-            if(Input.GetAxisRaw("Vertical") > 0)
+            if (Input.GetAxisRaw("Vertical") > 0)
             {
                 animator.SetBool("climbBewegung", true);
             }
@@ -91,7 +120,7 @@ void OnCollisionEnter2D(Collision2D other){
             {
                 animator.SetBool("climbBewegung", false);
             }
-         
+
         }
         else
         {
@@ -110,7 +139,7 @@ void OnCollisionEnter2D(Collision2D other){
 
 
 
-  
+
 
 
 
@@ -126,20 +155,20 @@ void OnCollisionEnter2D(Collision2D other){
         //animation "gehen" wird aktiviert
         animator.SetFloat("walking", Mathf.Abs(xEingabe));
 
-        
+
 
         //xposition öndern
-       xNeu = transform.position.x + xEingabe * eingabeFaktor/3 * Time.deltaTime;
-        transform.position = new Vector3(xNeu,  transform.position.y, 0);
+        xNeu = transform.position.x + xEingabe * eingabeFaktor / 3 * Time.deltaTime;
+        transform.position = new Vector3(xNeu, transform.position.y, 0);
 
-   
+
         //gehen nicht zu weit
         if (xNeu > 8.3f)
         {
             xNeu = 8.3f;
         }
 
-        if (transform.position.y > 8.3f || transform.position.y<-8.3f)
+        if (transform.position.y > 8.3f || transform.position.y < -8.3f)
         {
             xNeu = 8.3f;
         }
@@ -149,9 +178,10 @@ void OnCollisionEnter2D(Collision2D other){
 
 
 
-        if (Input.GetKeyDown(KeyCode.LeftArrow)){  //Input.GetKeyDown(KeyCode.RightArrow))
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {  //Input.GetKeyDown(KeyCode.RightArrow))
             sr.flipX = true;
-      
+
         }
         if (Input.GetKeyDown(KeyCode.RightArrow))
         {  //Input.GetKeyDown(KeyCode.RightArrow))
@@ -162,24 +192,27 @@ void OnCollisionEnter2D(Collision2D other){
         }
 
 
-       
+
 
 
 
         //springen
         if (Input.GetKeyDown(KeyCode.UpArrow) && grounded)
         {
-            
+
             animator.SetBool("jumping", true);
             rb.AddForce(transform.up * jumpforce);
             grounded = false;
             tonskript.PlaySound("jumping");
         }
-        else { animator.SetBool("jumping", false);
-            }
+        else
+        {
+            animator.SetBool("jumping", false);
+        }
 
         //ducken
-        if(Input.GetKey (KeyCode.DownArrow)){
+        if (Input.GetKey(KeyCode.DownArrow))
+        {
             animator.SetBool("Slide", true);
             slideCollider.enabled = true;
             normalCollider.enabled = false;
@@ -192,7 +225,7 @@ void OnCollisionEnter2D(Collision2D other){
         }
         //nichtb nur von boden springen können
     }
-    
+
 
 
 

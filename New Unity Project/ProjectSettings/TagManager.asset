@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Gefahr
   - bumptag
+  - FearTrigger
   layers:
   - Default
   - TransparentFX
