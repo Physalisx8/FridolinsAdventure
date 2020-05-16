@@ -45,7 +45,7 @@ public class fridolin : MonoBehaviour
         {
             Fear += 5;
 
-            if (Fear >= 5)
+            if (Fear >= 25)
             {
                 animator.SetBool("dieing", true);
                 transform.position = new Vector2(-75.14f, -6.66f);
