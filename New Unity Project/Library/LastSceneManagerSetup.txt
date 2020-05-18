@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Beispielszene.unity
+- path: "Assets/Men\xFC Szene/Men\xFC.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
