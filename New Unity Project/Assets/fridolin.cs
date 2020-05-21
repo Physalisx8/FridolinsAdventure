@@ -21,7 +21,8 @@ public class fridolin : MonoBehaviour
 
     //für die Main Mut Funktion
     public int Fear = 0;
-    public bool dieing;
+    public bool fear;
+   
 
     //zum klettern
     public LayerMask whatIsLadder;
@@ -47,7 +48,7 @@ public class fridolin : MonoBehaviour
 
             if (Fear >= 25)
             {
-                animator.SetBool("dieing", true);
+                animator.SetBool("fear", true);
                 transform.position = new Vector2(-75.14f, -6.66f);
                 Fear = 0;
 
@@ -55,7 +56,7 @@ public class fridolin : MonoBehaviour
             }
             else
             {
-                animator.SetBool("dieing", false);
+                animator.SetBool("fear", false);
             }
         }
 
